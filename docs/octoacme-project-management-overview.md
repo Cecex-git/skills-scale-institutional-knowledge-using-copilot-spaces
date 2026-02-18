@@ -16,8 +16,10 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Product Lead: oversees product strategy, guides Product Managers, and aligns cross-product initiatives.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA/Testing: validate quality and acceptance criteria, ensure test coverage.
+- Security Engineers: review security, triage vulnerabilities, respond to incidents.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

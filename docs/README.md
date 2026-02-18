@@ -28,9 +28,15 @@ OctoAcme projects involve several key roles, each with distinct responsibilities
 
 - **Product Managers (PdM)**: Define product vision and outcomes, prioritize the backlog, collaborate with stakeholders on trade-offs, validate solutions through research and metrics, and measure success.
 
+- **Product Leads**: Oversee product strategy across multiple product areas, guide and mentor Product Managers, make portfolio-level prioritization decisions, and align cross-product dependencies.
+
 - **Developers**: Implement features and fixes, write and maintain tests and documentation, participate in design and code reviews, assist in estimation and planning, and identify technical risks.
 
-- **QA/Testing Specialists**: Validate quality and acceptance criteria, create and execute test plans, ensure proper test coverage, and maintain high quality standards throughout the delivery process.
+- **QA/Testing Specialists**: Create and execute test plans, validate acceptance criteria and quality standards, identify and document defects, collaborate on test automation strategy, and sign off on feature readiness for release.
+
+- **Security Engineers**: Review code and architecture for security vulnerabilities, configure security scanning tools, triage security findings, define security requirements, respond to security incidents, and maintain security documentation.
+
+- **Sponsors**: Provide executive approval and funding, remove organizational blockers, make go/no-go decisions at key gates, ensure alignment with business strategy, and authorize resource allocation.
 
 - **Stakeholders**: Provide inputs, feedback, and approvals, participate in milestone reviews, and support cross-functional coordination.
 
